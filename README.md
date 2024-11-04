@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Will Young==================================================================================================================================Site Reliability Engineer-------------------------* 🌍  I'm based in Texas* ✉️  You can contact me at [wy@willyoung.cloud](mailto:wy@willyoung.cloud)* 🧠  I'm learning Full Stack Development with Golang + TEMPL + HTMX* 🤝  I'm open to collaborating on Anything Cloud, Automation/Scripting or Backend related* ⚡  I'm probably gaming right now 💀
+Hi 👋 My name is Will Young
+===========================Site Reliability Engineer-------------------------* 🌍  I'm based in Texas* ✉️  You can contact me at [wy@willyoung.cloud](mailto:wy@willyoung.cloud)* 🧠  I'm learning Full Stack Development with Golang + TEMPL + HTMX* 🤝  I'm open to collaborating on Anything Cloud, Automation/Scripting or Backend related* ⚡  I'm probably gaming right now 💀
 
 ### Skills
 
